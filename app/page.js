@@ -54,7 +54,7 @@ export default function Home() {
             {''}
             The easiest way to generate Flashcards from text
         </Typography>
-        <Button variant="contained" color="primary" sx={{mt:2}}>Get Started</Button>
+        <Button variant="contained" color="primary" sx={{mt:2}} href="/generate">Get Started</Button>
       </Box>
 
       <Box
